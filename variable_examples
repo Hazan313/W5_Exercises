@@ -1,0 +1,23 @@
+#Lab1
+
+Customer_id = 1122330
+Cfirst_name = 'Bob'
+Cmiddle_name = 'Ricky'
+Clast_name = 'Carlton'
+DOB = '08.10.96'
+DLN = 'ZBRC9678'
+Gender = 'M'
+APN = Gender + DOB + Gender + DLN
+print(APN)
+
+My_FN = 'Hassan_Zaidi'
+My_city = 'New_York_City'
+My_State = 'NY'
+print(My_FN + ' ' + My_city + " " + My_State)
+
+#Lab2
+#1.
+## False	def	if	raise None	del	import	return True	elif	in	try and	else	is	while
+## as	except	lambda	with assert	finally	nonlocal	yield break	for	not class	form	or continue	global	pass 
+
+#2.

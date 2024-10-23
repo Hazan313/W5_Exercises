@@ -8,4 +8,5 @@ Debt3 = 20000
 
 networth = ((Asset1 + Asset2 + Asset3) - (Debt1 + Debt2 + Debt3))
 networth = round(networth, 2)
+
 print('Your networth is $' + str(networth))

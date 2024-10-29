@@ -8,23 +8,23 @@ range_5 = range(1,7)
 counter = 0
 spices = []
 
-while counter == 0:
-    for x == tuple:
+#while counter == 0:
+#    for x == tuple:
 
 
 
 
 
 
-# for x in tuple:
-#    counter += 1
-#    if x == 'bay'or x == 'dandelion':
-#        print('Bay is a leaf')
-#    else :
-#        spices.append(x) 
-#        print(f'{x.capitalize()} is a spice')
+for x in tuple:
+    counter += 1
+    if x == 'bay'or x == 'dandelion':
+        print('Bay is a leaf')
+    else :
+        spices.append(x) 
+        print(f'{x.capitalize()} is a spice')
 
 print(x)
 
-print(f'We have {counter} items in our spice cabinet')
+print(f'We have {counter} items in our \n spice cabinet')
 print(f'{spices} are spices')

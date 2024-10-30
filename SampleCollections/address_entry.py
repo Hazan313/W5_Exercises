@@ -1,3 +1,4 @@
+# Exercise 3.B Creating Collections Lab3
 # List all variables:
 
 #1
@@ -26,9 +27,7 @@ address_dict.update({'honorific' : 'Dr'})
 # Print all results:
 
 #2
-print(f"{(address_dict['Name'])} \n{(address_dict['Address'])} \n{(address_dict['City'])} 
-      \n{(address_dict['State'])} \n{(address_dict['Zip'])}") 
+print(f"{(address_dict['Name'])} \n{(address_dict['Address'])} \n{(address_dict['City'])} \n{(address_dict['State'])} \n{(address_dict['Zip'])}") 
 
 #6
-print(f"{address_dict['honorific']} {(address_dict['Name'])} \n{(address_dict['Address'])} 
-      \n{(address_dict['City'])} \n{(address_dict['State'])} \n{(address_dict['Zip'])}")
+print(f"{address_dict['honorific']} {(address_dict['Name'])} \n{(address_dict['Address'])} \n{(address_dict['City'])} \n{(address_dict['State'])} \n{(address_dict['Zip'])}")

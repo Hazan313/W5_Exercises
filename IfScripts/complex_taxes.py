@@ -26,6 +26,7 @@ rem_weekly_pay = 0
 #elif hours_worked == 40 :
 #    weekly_pay = pay_rate * hours_worked
 #    print(f"Your weekly pay comes out to {weekly_pay},\nand hours worked are exactly {hours_worked}.")
+
 weekly_pay = hours_worked * pay_rate
 
 yearly_pay = 52 * weekly_pay
